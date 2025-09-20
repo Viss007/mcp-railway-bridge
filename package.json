@@ -1,0 +1,8 @@
+{
+  "name": "mcp-railway-bridge",
+  "type": "module",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": { "start": "node bridge.js" },
+  "dependencies": { "express": "^4", "http-proxy-middleware": "^3", "cors": "^2" }
+}
